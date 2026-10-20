@@ -1,0 +1,8 @@
+process_name: CastlevaniaBelmontsCurse.exe
+game_build: "1.4.2"
+overlay_enabled: true
+hotkeys:
+  toggle_godmode: F1
+  toggle_infinite_hearts: F2
+  toggle_whiplash: F3
+  open_overlay: F8
