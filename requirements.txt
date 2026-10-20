@@ -1,0 +1,8 @@
+# belmonts-curse-trainer runtime deps
+pywin32>=306
+pymem>=1.12.0
+pyyaml>=6.0.1
+rich>=13.7.0
+prompt-toolkit>=3.0.43
+watchdog>=4.0.0
+aiohttp>=3.9.5
